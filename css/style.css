@@ -1,0 +1,46 @@
+h1 {
+   color : #D46A6A;
+   font-size: 60px;
+   font-family: 'Indie Flower', cursive;
+}
+
+.first-paragraph{
+	background-color: rgb(255,170,170);
+	text-align: center; 
+	margin-top: 70px;
+	margin-right: 130px;
+	margin-left: 130px; 
+	margin-bottom: 70px; 
+	border: solid 10px #801515;
+	border-radius: 15px;
+	padding: 50px; 
+	box-shadow: 10px 10px 5px #FFAAAA; 
+}
+body{
+	background-color: #FFB0B0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+#avatar {
+	width: 500px;
+}
+.network {
+	width: 50px;
+}
+#abstract {
+	font-weight: bold; 
+}
+.shadow {
+	box-shadow:10px 10px 5px grey;
+}
+.icon-network {
+	font-size: 60px; 
+	color: #D46A6A;
+	text-decoration: none; 
+}
+.fafa-twitter {
+	font-size: 60px;
+	color: #D46A6A;
+	text-decoration: none;
+}
